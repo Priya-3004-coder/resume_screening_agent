@@ -1,0 +1,36 @@
+MEERA JOSHI
+meera.joshi@hotmail.com | Jaipur, Rajasthan
+
+EDUCATION
+B.Sc. in Mathematics
+University of Rajasthan — 78% aggregate
+Graduated: 2023
+
+SKILLS
+Python (learning), R (intermediate), SPSS
+Statistics: hypothesis testing, regression, ANOVA, probability distributions
+LaTeX, Microsoft Office
+
+ACADEMIC PROJECTS
+1. Regression Analysis on Agricultural Yield Data
+   - Multiple linear regression in R; analysed impact of rainfall and fertiliser
+   - Wrote a 30-page report; presented at departmental seminar
+
+2. Statistical Study of Air Quality in Jaipur
+   - Collected 6-month AQI data; performed time-series analysis in R
+   - Found seasonal correlation with vehicular traffic (p < 0.01)
+
+3. Introduction to Python ML (Self-Learning, 2024)
+   - Completed Kaggle Intro to Machine Learning micro-course
+   - Built a decision tree on Titanic dataset as practice exercise
+
+RELEVANT COURSEWORK
+Real Analysis, Linear Algebra, Probability Theory, Statistical Inference,
+Numerical Methods, Operations Research
+
+INTERESTS
+Data journalism, statistical consulting, teaching mathematics
+
+NOTE
+Strong mathematical foundation; currently learning Python and ML fundamentals
+to move into a data science role. Open to internships and training roles.

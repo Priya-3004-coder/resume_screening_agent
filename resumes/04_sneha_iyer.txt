@@ -1,0 +1,48 @@
+SNEHA IYER
+sneha.iyer@protonmail.com | Chennai, India
+LinkedIn: linkedin.com/in/sneha-iyer-nlp
+
+EDUCATION
+M.Tech in Artificial Intelligence
+Anna University, Chennai — CGPA: 8.9/10
+Graduated: May 2024
+
+B.E. Computer Science
+SRM Institute — CGPA: 8.2/10 | 2022
+
+SKILLS
+Python, SQL, C++
+Deep Learning: PyTorch, TensorFlow/Keras
+NLP: Transformers (BERT, RoBERTa, T5), spaCy, NLTK, LangChain
+LLMs: OpenAI API, Anthropic Claude API, Hugging Face Inference API
+Vector DBs: Chroma, Pinecone
+MLOps: Docker, FastAPI, MLflow, DVC
+Cloud: GCP (Vertex AI, Cloud Run)
+
+THESIS
+"Adapting Large Language Models for Low-Resource Indian Languages using LoRA"
+- Fine-tuned LLaMA-2 on Tamil and Telugu corpora using LoRA adapters
+- Evaluated on NLU benchmarks; 7% improvement over baseline
+- Code open-sourced on GitHub (150+ stars)
+
+PROJECTS
+1. Medical Report Summarisation Agent
+   - LangChain + GPT-4 agent that summarises discharge summaries
+   - RAG with ChromaDB; deployed on GCP Cloud Run
+   - Tested with 3 hospitals in Chennai pilot
+
+2. Intent Classification for Customer Support Chatbot
+   - Fine-tuned DistilBERT on 10k support tickets; 96% accuracy
+   - Integrated into production system via FastAPI
+
+WORK EXPERIENCE
+AI Research Intern — IIT Madras NLP Lab (Jan–Dec 2023)
+- Contributed to a paper on cross-lingual NER (under review, ACL 2024)
+- Implemented baseline models in PyTorch; managed datasets on DVC
+
+PUBLICATIONS
+1 under-review paper, ACL 2024
+
+CERTIFICATIONS
+- MLOps Specialization — Coursera (2023)
+- GCP Professional ML Engineer (2024)

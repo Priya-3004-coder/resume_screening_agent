@@ -1,0 +1,42 @@
+RIYA KAPOOR
+riya.kapoor@gmail.com | Delhi, India
+GitHub: github.com/riya-ai | Portfolio: riyakapoor.dev
+
+EDUCATION
+B.Tech in Computer Science (AI & ML Specialisation)
+Delhi Technological University — CGPA: 8.6/10
+Graduated: May 2025
+
+SKILLS
+Python (proficient), SQL, JavaScript (basic)
+PyTorch, scikit-learn, Hugging Face, LangChain, OpenAI API
+FastAPI, Flask, Streamlit
+Docker, GitHub Actions (CI/CD basics)
+Pinecone, FAISS (vector search)
+
+PROJECTS
+1. AI Study Buddy (Capstone Project)
+   - Conversational RAG chatbot using GPT-4 + LangChain + Pinecone
+   - Ingests course PDFs; answers student questions with cited sources
+   - Deployed on Streamlit Cloud; 300+ active users from college
+
+2. Resume Shortlisting Tool (this very use case!)
+   - Built a tool that ranks resumes against JDs using sentence-transformers
+   - Used cosine similarity + keyword matching; open-sourced on GitHub
+
+3. Twitter Sentiment Tracker
+   - Real-time tweet scraping + VADER + BERT sentiment classification
+   - Dashboard built in Streamlit; tracks brand mentions
+
+INTERNSHIP
+AI Engineer Intern — Ola Electric (Nov 2024–Apr 2025)
+- Built a vehicle diagnostic chatbot using GPT-3.5 + LangChain
+- Reduced support ticket volume by 22% in pilot deployment
+- Wrote unit tests (pytest) and containerised service with Docker
+
+OPEN SOURCE
+- Contributed to LangChain documentation (2 merged PRs)
+- Built & published "pdfrag" Python package (pip install pdfrag, 80+ stars)
+
+SOFT SKILLS
+Strong technical writer, presenter (TEDx volunteer), peer mentor

@@ -1,0 +1,42 @@
+Job Title: Junior AI / Machine Learning Engineer
+
+Company: Rooman Technologies
+Location: Bangalore, India (Hybrid)
+Experience: 0–2 years
+
+About the Role:
+We are looking for a curious, hands-on Junior AI/ML Engineer to join our growing AI team.
+You will help build, fine-tune, and deploy machine learning models that power our SaaS
+products. This is a learning-heavy role — we mentor, you grow fast.
+
+Responsibilities:
+- Build and experiment with ML models (classification, regression, NLP)
+- Write clean Python code for data pipelines, model training, and inference APIs
+- Work with LLMs (OpenAI, Hugging Face) to build AI-powered features
+- Collaborate with the data and product teams
+- Write unit tests and document your code
+- Deploy models using FastAPI or Flask; containerise with Docker
+
+Required Skills:
+- Python (proficient)
+- Machine learning fundamentals (scikit-learn, numpy, pandas)
+- Basic deep learning (PyTorch or TensorFlow)
+- Familiarity with NLP concepts and transformers
+- Git version control
+- Clear written and verbal communication
+
+Nice to Have:
+- Experience with LLM APIs (OpenAI, Anthropic, Hugging Face Inference API)
+- RAG pipelines, vector databases (FAISS, Pinecone, Chroma)
+- FastAPI or Flask for serving models
+- Docker / basic cloud (AWS, GCP, or Azure)
+- Kaggle competitions or personal AI projects
+
+Education:
+- B.Tech / B.E. / B.Sc. in Computer Science, AI, Data Science, or related field
+- Recent graduates (2023–2025) are strongly encouraged to apply
+
+What We Offer:
+- Mentorship from senior ML engineers
+- Access to compute credits (A100 GPUs)
+- Competitive stipend + pre-placement offer for outstanding performers

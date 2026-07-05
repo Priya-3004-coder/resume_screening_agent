@@ -1,0 +1,237 @@
+[
+  {
+    "rank": 1,
+    "filename": "04_sneha_iyer.txt",
+    "final_score": 91.2,
+    "semantic_similarity": 0.8821,
+    "llm_scores": {
+      "skills_match": 24,
+      "experience_relevance": 24,
+      "education_fit": 14,
+      "overall_impression": 33
+    },
+    "strengths": [
+      "M.Tech in AI with thesis directly on LLMs and LoRA fine-tuning",
+      "Hands-on experience with OpenAI, Anthropic, and Hugging Face APIs",
+      "Production RAG deployment on GCP with real hospital pilot",
+      "Strong NLP publication record; MLOps tooling (Docker, FastAPI, MLflow)"
+    ],
+    "gaps": [
+      "Slightly over-qualified for a junior role — may have higher salary expectations",
+      "Limited Kaggle competition history"
+    ],
+    "summary": "Sneha is a standout candidate whose M.Tech thesis and research internship at IIT Madras directly address the core requirements of this role. Her end-to-end LLM deployment experience and production RAG work make her the strongest technical fit in this batch."
+  },
+  {
+    "rank": 2,
+    "filename": "08_riya_kapoor.txt",
+    "final_score": 88.7,
+    "semantic_similarity": 0.8654,
+    "llm_scores": {
+      "skills_match": 23,
+      "experience_relevance": 23,
+      "education_fit": 13,
+      "overall_impression": 32
+    },
+    "strengths": [
+      "AI & ML specialisation with direct LLM/RAG project experience",
+      "Published open-source package (pdfrag) and LangChain contributions",
+      "Strong internship at Ola Electric with measurable production impact",
+      "Excellent communicator and portfolio presence (personal website, 300+ users)"
+    ],
+    "gaps": [
+      "Less research depth compared to Sneha Iyer",
+      "No cloud certification yet"
+    ],
+    "summary": "Riya is an exceptional fresh graduate who has already shipped production AI systems. Her LangChain internship, open-source work, and RAG chatbot deployments make her nearly as strong as Sneha with arguably better team fit for an early-stage product company."
+  },
+  {
+    "rank": 3,
+    "filename": "01_arjun_sharma.txt",
+    "final_score": 84.1,
+    "semantic_similarity": 0.8412,
+    "llm_scores": {
+      "skills_match": 22,
+      "experience_relevance": 21,
+      "education_fit": 13,
+      "overall_impression": 30
+    },
+    "strengths": [
+      "IIT Hyderabad with strong CGPA and Kaggle track record",
+      "RAG project using LangChain + OpenAI + FAISS — directly relevant",
+      "AWS deployment experience (EC2, Docker)",
+      "Published Hugging Face model with community traction"
+    ],
+    "gaps": [
+      "Internship was short (3 months); no LLM API experience in production",
+      "Less exposure to newer LLM frameworks vs Riya and Sneha"
+    ],
+    "summary": "Arjun is a strong B.Tech candidate from a top institution with a well-rounded skill set. His final year RAG project and ML internship demonstrate solid fundamentals, though his production LLM experience is less deep than the top two candidates."
+  },
+  {
+    "rank": 4,
+    "filename": "09_vivek_singh.txt",
+    "final_score": 72.4,
+    "semantic_similarity": 0.7893,
+    "llm_scores": {
+      "skills_match": 19,
+      "experience_relevance": 17,
+      "education_fit": 11,
+      "overall_impression": 24
+    },
+    "strengths": [
+      "Broad ML skillset including NLP fine-tuning (DistilBERT)",
+      "Good Kaggle performance and research reading habits",
+      "Clean, modular code practices mentioned",
+      "Production-adjacent internship at Infosys"
+    ],
+    "gaps": [
+      "No LLM API or RAG experience",
+      "No Docker/cloud deployment experience",
+      "Tier-3 university; CGPA could be higher"
+    ],
+    "summary": "Vivek shows solid NLP and ML fundamentals with decent project breadth, but lacks the LLM/RAG and deployment experience the role prioritises. He's a trainable candidate who would need 2–3 months of ramp-up before contributing independently."
+  },
+  {
+    "rank": 5,
+    "filename": "06_divya_nair.txt",
+    "final_score": 67.8,
+    "semantic_similarity": 0.7541,
+    "llm_scores": {
+      "skills_match": 17,
+      "experience_relevance": 16,
+      "education_fit": 11,
+      "overall_impression": 22
+    },
+    "strengths": [
+      "Strong computer vision and deployment experience (Flask, TFLite)",
+      "Google TensorFlow Developer Certification",
+      "Good CGPA and real internship with measurable CV outcome",
+      "LeetCode discipline shows strong CS fundamentals"
+    ],
+    "gaps": [
+      "ECE background — less CS/ML coursework than CS candidates",
+      "No NLP or LLM experience",
+      "No experience with Docker, FastAPI, or cloud platforms"
+    ],
+    "summary": "Divya has strong practical ML skills in computer vision and deployment, but her background is more hardware/CV-oriented than the NLP/LLM focus this role requires. She's a solid hire for a CV role but needs upskilling for this position."
+  },
+  {
+    "rank": 6,
+    "filename": "02_priya_menon.txt",
+    "final_score": 58.3,
+    "semantic_similarity": 0.7102,
+    "llm_scores": {
+      "skills_match": 14,
+      "experience_relevance": 14,
+      "education_fit": 10,
+      "overall_impression": 20
+    },
+    "strengths": [
+      "High CGPA (9.1) from a reputable institution",
+      "Strong data analysis and dashboard skills",
+      "Excellent documentation habits — important for team collaboration",
+      "Datathon winner — competitive mindset"
+    ],
+    "gaps": [
+      "No deep learning or LLM experience beyond a basic fast.ai course",
+      "No deployment, API, or Docker experience",
+      "Data analyst profile, not ML engineer profile"
+    ],
+    "summary": "Priya has excellent analytical foundations and a high academic record, but her skill set is closer to a data analyst than an ML engineer. With dedicated upskilling in PyTorch and LLMs she could grow into the role, but she's not ready for it today."
+  },
+  {
+    "rank": 7,
+    "filename": "10_meera_joshi.txt",
+    "final_score": 38.5,
+    "semantic_similarity": 0.5812,
+    "llm_scores": {
+      "skills_match": 8,
+      "experience_relevance": 7,
+      "education_fit": 8,
+      "overall_impression": 12
+    },
+    "strengths": [
+      "Exceptional mathematical depth (real analysis, probability theory)",
+      "Strong statistical background that underpins ML",
+      "Self-aware about gaps; actively learning Python"
+    ],
+    "gaps": [
+      "No engineering project experience",
+      "B.Sc. Mathematics — not directly aligned with the CS/AI job requirements",
+      "Python skills are very beginner-level; no ML framework experience",
+      "No internship or real-world data project"
+    ],
+    "summary": "Meera's strong mathematics background is genuinely valuable long-term, but she is too early in her AI/ML learning journey for this role. She would be better suited for an entry-level data internship or a structured bootcamp before applying to engineer roles."
+  },
+  {
+    "rank": 8,
+    "filename": "05_karan_patel.txt",
+    "final_score": 32.1,
+    "semantic_similarity": 0.5103,
+    "llm_scores": {
+      "skills_match": 6,
+      "experience_relevance": 5,
+      "education_fit": 7,
+      "overall_impression": 10
+    },
+    "strengths": [
+      "B.Tech in IT — correct educational direction",
+      "Shows initiative through self-learning"
+    ],
+    "gaps": [
+      "Very limited technical skills — no deep learning or NLP experience",
+      "No internship or meaningful ML project completed",
+      "Below average CGPA (6.8)",
+      "Skills are too junior even for this entry-level role"
+    ],
+    "summary": "Karan is an early-stage learner who has not yet developed the skills required for this role. His projects are exploratory exercises rather than demonstrable competencies. He should build more substantial projects and complete the Andrew Ng ML course before re-applying."
+  },
+  {
+    "rank": 9,
+    "filename": "03_rohan_verma.txt",
+    "final_score": 22.7,
+    "semantic_similarity": 0.4231,
+    "llm_scores": {
+      "skills_match": 4,
+      "experience_relevance": 5,
+      "education_fit": 7,
+      "overall_impression": 10
+    },
+    "strengths": [
+      "Strong backend engineering skills (Node.js, REST APIs, databases)",
+      "Good software engineering practices (testing, deployment)",
+      "Relevant CS degree"
+    ],
+    "gaps": [
+      "Zero ML, AI, or data science experience",
+      "No Python ML libraries; Python listed as 'basic'",
+      "Completely different career direction (web/backend development)"
+    ],
+    "summary": "Rohan is a competent backend developer but has applied to the wrong role. None of his projects or skills map to ML engineering. He should be redirected to a backend/full-stack engineering role where his skills are genuinely competitive."
+  },
+  {
+    "rank": 10,
+    "filename": "07_amit_desai.txt",
+    "final_score": 18.4,
+    "semantic_similarity": 0.3897,
+    "llm_scores": {
+      "skills_match": 3,
+      "experience_relevance": 4,
+      "education_fit": 4,
+      "overall_impression": 8
+    },
+    "strengths": [
+      "Strong analytical mindset from finance background",
+      "Genuine motivation to transition into AI",
+      "Domain expertise in finance could be valuable in fintech AI contexts"
+    ],
+    "gaps": [
+      "10 years in finance — career pivot is a significant risk for a startup team",
+      "Python learning is only 60% complete; no ML project experience",
+      "MBA in Finance is misaligned with engineering role requirements",
+      "No technical output to evaluate"
+    ],
+    "summary": "Amit's motivation is admirable but he is at the very beginning of a long transition journey. Without any completed ML projects or demonstrated technical output, there is too much risk and ramp-up cost for a junior engineering role at this stage."
+  }
+]

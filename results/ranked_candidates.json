@@ -1,0 +1,248 @@
+[
+  {
+    "rank": 1,
+    "filename": "08_riya_kapoor.txt",
+    "final_score": 77.26,
+    "semantic_similarity": 0.6564,
+    "llm_scores": {
+      "skills_match": 22,
+      "experience_relevance": 20,
+      "education_fit": 15,
+      "overall_impression": 28
+    },
+    "strengths": [
+      "Strong technical writer",
+      "Presenter (TEDx volunteer)",
+      "Peer mentor",
+      "Proficient in Python",
+      "Experience with PyTorch, scikit-learn, and Hugging Face",
+      "Familiarity with NLP concepts and transformers",
+      "Deployed models using Streamlit Cloud",
+      "Contributed to LangChain documentation",
+      "Built and published a Python package (pdfrag)"
+    ],
+    "gaps": [
+      "Limited experience with deep learning (PyTorch or TensorFlow)",
+      "No experience with FastAPI or Flask for serving models",
+      "No experience with Docker / basic cloud (AWS, GCP, or Azure)"
+    ],
+    "summary": "Riya Kapoor is a recent B.Tech graduate with a strong foundation in AI and ML. Her projects showcase her hands-on experience with PyTorch, Hugging Face, and LangChain, as well as her ability to deploy models using Streamlit Cloud. Her contributions to LangChain documentation and published Python package demonstrate her technical skills and willingness to learn. However, she lacks experience with deep learning, FastAPI, and Docker, which may require additional training or mentorship."
+  },
+  {
+    "rank": 2,
+    "filename": "01_arjun_sharma.txt",
+    "final_score": 74.83,
+    "semantic_similarity": 0.5958,
+    "llm_scores": {
+      "skills_match": 22,
+      "experience_relevance": 20,
+      "education_fit": 15,
+      "overall_impression": 28
+    },
+    "strengths": [
+      "Hands-on experience with PyTorch, scikit-learn, and Hugging Face Transformers",
+      "Strong NLP skills with BERT fine-tuning and RAG pipelines",
+      "Experience with FastAPI, Docker, and AWS",
+      "Published model on Hugging Face model hub and contributed to scikit-learn docs"
+    ],
+    "gaps": [
+      "Limited experience with TensorFlow",
+      "No experience with LLM APIs (Anthropic, Hugging Face Inference API)",
+      "No experience with vector databases (Pinecone, Chroma)"
+    ],
+    "summary": "Arjun Sharma is a strong candidate with hands-on experience in PyTorch, scikit-learn, and Hugging Face Transformers. His NLP skills and experience with FastAPI, Docker, and AWS make him a good fit for the role. However, he lacks experience with TensorFlow, LLM APIs, and vector databases, which are nice-to-have skills for the position."
+  },
+  {
+    "rank": 3,
+    "filename": "04_sneha_iyer.txt",
+    "final_score": 72.01,
+    "semantic_similarity": 0.5553,
+    "llm_scores": {
+      "skills_match": 23,
+      "experience_relevance": 18,
+      "education_fit": 14,
+      "overall_impression": 28
+    },
+    "strengths": [
+      "Strong NLP and ML skills",
+      "Experience with LLM APIs and vector databases",
+      "MLOps expertise with Docker, FastAPI, and MLflow",
+      "Cloud experience with GCP",
+      "Research experience with IIT Madras NLP Lab"
+    ],
+    "gaps": [
+      "Limited experience with Kaggle competitions or personal AI projects",
+      "No direct experience with AWS or Azure"
+    ],
+    "summary": "Sneha Iyer is a strong candidate with a solid background in NLP and ML. Her experience with LLM APIs, vector databases, and MLOps is impressive. However, she lacks direct experience with AWS or Azure and Kaggle competitions. Her research experience and publications demonstrate her potential as a Junior AI/ML Engineer."
+  },
+  {
+    "rank": 4,
+    "filename": "09_vivek_singh.txt",
+    "final_score": 69.04,
+    "semantic_similarity": 0.526,
+    "llm_scores": {
+      "skills_match": 20,
+      "experience_relevance": 22,
+      "education_fit": 10,
+      "overall_impression": 28
+    },
+    "strengths": [
+      "Strong Python skills",
+      "Hands-on experience with machine learning libraries (scikit-learn, TensorFlow)",
+      "Basic deep learning knowledge (PyTorch)",
+      "Familiarity with NLP concepts and transformers",
+      "Good communication skills (documented API in Swagger)",
+      "Experience with Kaggle competitions"
+    ],
+    "gaps": [
+      "Limited experience with LLM APIs (only mentioned as an interest)",
+      "No experience with FastAPI or Docker",
+      "No direct experience with cloud platforms (AWS, GCP, or Azure)"
+    ],
+    "summary": "Vivek has a solid foundation in machine learning and deep learning, with hands-on experience in building and deploying models. His Kaggle experience and documented API in Swagger demonstrate good communication skills. However, he lacks experience with LLM APIs, FastAPI, and Docker, which are nice-to-have skills for this role."
+  },
+  {
+    "rank": 5,
+    "filename": "06_divya_nair.txt",
+    "final_score": 65.03,
+    "semantic_similarity": 0.5606,
+    "llm_scores": {
+      "skills_match": 18,
+      "experience_relevance": 20,
+      "education_fit": 5,
+      "overall_impression": 28
+    },
+    "strengths": [
+      "Hands-on experience with ML projects (Face Mask Detection, Voice Command Recognition, Stock Price Prediction)",
+      "Proficiency in Python, scikit-learn, numpy, pandas, and TensorFlow",
+      "Good understanding of computer vision and signal processing concepts",
+      "Experience with Flask and OpenCV",
+      "Strong communication skills (weekly technical documentation)"
+    ],
+    "gaps": [
+      "Limited experience with deep learning (PyTorch or TensorFlow)",
+      "No experience with LLM APIs (OpenAI, Anthropic, Hugging Face Inference API)",
+      "No experience with FastAPI or Docker",
+      "Education is in Electronics & Communication Engineering, not directly related to AI or Data Science"
+    ],
+    "summary": "Divya has shown potential in her ML projects and internship experience. However, she lacks direct experience with deep learning, LLM APIs, and cloud platforms. With guidance and mentorship, she could grow into the role of a Junior AI/ML Engineer."
+  },
+  {
+    "rank": 6,
+    "filename": "02_priya_menon.txt",
+    "final_score": 62.77,
+    "semantic_similarity": 0.5192,
+    "llm_scores": {
+      "skills_match": 20,
+      "experience_relevance": 15,
+      "education_fit": 10,
+      "overall_impression": 25
+    },
+    "strengths": [
+      "Strong statistical fundamentals",
+      "Quick learner",
+      "Excellent documentation habits"
+    ],
+    "gaps": [
+      "Lack of experience with deep learning frameworks (PyTorch or TensorFlow)",
+      "No experience with LLM APIs (OpenAI, Anthropic, Hugging Face Inference API)",
+      "No experience with FastAPI or Flask for serving models"
+    ],
+    "summary": "Priya has a strong foundation in data science and machine learning, with a solid understanding of Python and scikit-learn. Her experience with projects and internships demonstrates her ability to apply ML concepts to real-world problems. However, she lacks experience with deep learning frameworks and LLM APIs, which are essential for this role."
+  },
+  {
+    "rank": 7,
+    "filename": "03_rohan_verma.txt",
+    "final_score": 51.91,
+    "semantic_similarity": 0.4728,
+    "llm_scores": {
+      "skills_match": 15,
+      "experience_relevance": 10,
+      "education_fit": 10,
+      "overall_impression": 20
+    },
+    "strengths": [
+      "Basic Python skills",
+      "Experience with Node.js, Express.js, and REST APIs",
+      "Good understanding of databases (MongoDB, MySQL, PostgreSQL)",
+      "Strong project portfolio (E-Commerce Web Application, Task Management API)",
+      "Good communication skills (GitHub, blog not present)"
+    ],
+    "gaps": [
+      "Limited experience with machine learning fundamentals (scikit-learn, numpy, pandas)",
+      "No experience with deep learning (PyTorch or TensorFlow)",
+      "No experience with NLP concepts and transformers",
+      "No experience with LLM APIs (OpenAI, Anthropic, Hugging Face Inference API)",
+      "No experience with FastAPI or Flask for serving models"
+    ],
+    "summary": "Rohan has a strong foundation in backend development with Node.js and Express.js, but lacks experience in machine learning and AI. His project portfolio showcases his ability to build scalable web applications, but he needs to develop skills relevant to the Junior AI/ML Engineer role."
+  },
+  {
+    "rank": 8,
+    "filename": "10_meera_joshi.txt",
+    "final_score": 47.96,
+    "semantic_similarity": 0.5241,
+    "llm_scores": {
+      "skills_match": 12,
+      "experience_relevance": 8,
+      "education_fit": 5,
+      "overall_impression": 20
+    },
+    "strengths": [
+      "Strong mathematical foundation",
+      "Basic understanding of machine learning concepts",
+      "Good communication skills (academic projects and report writing)"
+    ],
+    "gaps": [
+      "Lack of direct experience with machine learning libraries (scikit-learn, PyTorch, TensorFlow)",
+      "No experience with NLP concepts and transformers",
+      "No experience with deployment tools (FastAPI, Flask, Docker)"
+    ],
+    "summary": "Meera has a strong mathematical foundation and is actively learning Python and ML fundamentals. She has shown potential through her academic projects and Kaggle course completion, but lacks direct experience in machine learning and deployment tools."
+  },
+  {
+    "rank": 9,
+    "filename": "05_karan_patel.txt",
+    "final_score": 47.44,
+    "semantic_similarity": 0.4359,
+    "llm_scores": {
+      "skills_match": 12,
+      "experience_relevance": 8,
+      "education_fit": 10,
+      "overall_impression": 20
+    },
+    "strengths": [
+      "Eager to learn",
+      "Hardworking",
+      "Good team player"
+    ],
+    "gaps": [
+      "Lack of hands-on experience with machine learning libraries",
+      "No experience with deep learning frameworks (PyTorch or TensorFlow)",
+      "No experience with NLP concepts and transformers"
+    ],
+    "summary": "Karan has a strong foundation in Python and some basic machine learning concepts. However, he lacks hands-on experience with machine learning libraries and deep learning frameworks, which are crucial for this role. His eagerness to learn and team player attitude are positives, but he needs to demonstrate more relevant experience and skills to be a strong candidate."
+  },
+  {
+    "rank": 10,
+    "filename": "07_amit_desai.txt",
+    "final_score": 41.46,
+    "semantic_similarity": 0.5114,
+    "llm_scores": {
+      "skills_match": 10,
+      "experience_relevance": 5,
+      "education_fit": 0,
+      "overall_impression": 20
+    },
+    "strengths": [
+      "strong analytical foundations",
+      "finance domain expertise"
+    ],
+    "gaps": [
+      "lack of direct AI/ML experience",
+      "limited technical skills"
+    ],
+    "summary": "A motivated candidate with strong analytical foundations and finance domain expertise, but limited direct AI/ML experience and technical skills. Requires significant training and mentorship to adapt to the role."
+  }
+]

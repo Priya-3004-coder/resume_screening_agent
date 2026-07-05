@@ -1,0 +1,52 @@
+[
+  {
+    "filename": "08_riya_kapoor.txt",
+    "semantic_score": 0.6564,
+    "rank": 1
+  },
+  {
+    "filename": "01_arjun_sharma.txt",
+    "semantic_score": 0.5958,
+    "rank": 2
+  },
+  {
+    "filename": "06_divya_nair.txt",
+    "semantic_score": 0.5606,
+    "rank": 3
+  },
+  {
+    "filename": "04_sneha_iyer.txt",
+    "semantic_score": 0.5553,
+    "rank": 4
+  },
+  {
+    "filename": "09_vivek_singh.txt",
+    "semantic_score": 0.526,
+    "rank": 5
+  },
+  {
+    "filename": "10_meera_joshi.txt",
+    "semantic_score": 0.5241,
+    "rank": 6
+  },
+  {
+    "filename": "02_priya_menon.txt",
+    "semantic_score": 0.5192,
+    "rank": 7
+  },
+  {
+    "filename": "07_amit_desai.txt",
+    "semantic_score": 0.5114,
+    "rank": 8
+  },
+  {
+    "filename": "03_rohan_verma.txt",
+    "semantic_score": 0.4728,
+    "rank": 9
+  },
+  {
+    "filename": "05_karan_patel.txt",
+    "semantic_score": 0.4359,
+    "rank": 10
+  }
+]

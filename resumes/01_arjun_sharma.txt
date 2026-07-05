@@ -1,0 +1,41 @@
+ARJUN SHARMA
+Email: arjun.sharma@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjun-ml
+
+EDUCATION
+B.Tech in Computer Science & Engineering
+Indian Institute of Technology, Hyderabad — CGPA: 8.7/10
+Graduated: May 2024
+
+SKILLS
+Languages: Python (advanced), Java, SQL
+ML/DL: PyTorch, scikit-learn, Hugging Face Transformers, FAISS
+NLP: BERT fine-tuning, text classification, named entity recognition, RAG pipelines
+Tools: FastAPI, Docker, Git, Jupyter, Weights & Biases
+Cloud: AWS (EC2, S3, Lambda basics)
+
+PROJECTS
+1. LLM-Powered Document Q&A System (Final Year Project)
+   - Built a RAG pipeline using LangChain + OpenAI GPT-4 + FAISS for legal document Q&A
+   - Reduced lawyer research time by ~40% in pilot testing with a law firm
+   - Deployed as FastAPI service on AWS EC2; containerised with Docker
+
+2. Fake News Detection with BERT
+   - Fine-tuned BERT on a 50k-sample dataset; achieved 94.2% accuracy
+   - Published on Hugging Face model hub (200+ downloads)
+
+3. Kaggle: Tabular Playground Series (Top 8%)
+   - Used XGBoost + feature engineering + stacking; ranked 73/1200
+
+INTERNSHIP
+ML Engineer Intern — DataEdge Analytics, Bangalore (June–Aug 2023)
+- Built a customer churn prediction model (LightGBM, 87% AUC)
+- Wrote FastAPI endpoints to serve the model to the product team
+- Automated weekly data pipeline using pandas + cron
+
+CERTIFICATIONS
+- Deep Learning Specialization — Andrew Ng / Coursera (2023)
+- AWS Cloud Practitioner (2024)
+
+INTERESTS
+Open-source contributor (3 merged PRs to scikit-learn docs), technical blogging

@@ -1,0 +1,35 @@
+AMIT DESAI
+amit.desai@yahoo.com | Mumbai, Maharashtra
+
+OBJECTIVE
+10-year experienced finance professional transitioning into technology.
+Seeking entry-level data role to apply analytical skills.
+
+EDUCATION
+MBA in Finance
+Jamnalal Bajaj Institute of Management Studies, Mumbai — 2014
+B.Com in Accounting
+University of Mumbai — 2012
+
+WORK EXPERIENCE
+Senior Financial Analyst — HDFC Bank (2018–2024)
+- Built complex Excel models for credit risk assessment (50+ tabs, macros)
+- Led a team of 4 analysts; managed ₹200 Cr loan portfolio reporting
+- Automated monthly reports using VBA macros, saving 20 hours/month
+
+Financial Analyst — Deloitte (2014–2018)
+- Valuation models (DCF, LBO) for M&A advisory engagements
+- Presented findings to C-suite; strong stakeholder management
+
+SELF-LEARNING (2024–Present)
+- Python for Data Science (Coursera, in progress — 60% complete)
+- SQL fundamentals (completed, basic SELECT/JOIN queries)
+- Exploring ChatGPT API through tutorials
+
+SKILLS
+Advanced Excel (VBA, Power Query), SQL (basic), Python (beginner)
+Financial modelling, risk analysis, team leadership
+
+NOTE FROM CANDIDATE
+I am motivated to pivot into AI/ML. I have strong analytical foundations
+and believe my finance domain expertise could add value in fintech AI.

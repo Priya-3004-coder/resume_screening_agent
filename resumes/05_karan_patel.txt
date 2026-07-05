@@ -1,0 +1,34 @@
+KARAN PATEL
+karan.patel2001@gmail.com | Ahmedabad, Gujarat
+GitHub: github.com/karan-builds
+
+EDUCATION
+B.Tech in Information Technology
+Nirma University — CGPA: 6.8/10
+Expected Graduation: May 2025 (Final Year)
+
+SKILLS
+Python, C, HTML/CSS
+pandas, numpy (self-taught via YouTube)
+Basic Machine Learning — watched Andrew Ng ML course (partial)
+Git, VS Code
+
+PROJECTS
+1. COVID-19 Data Visualisation
+   - Downloaded public dataset, plotted graphs using matplotlib and seaborn
+   - Displayed country-wise trends in a Jupyter notebook
+
+2. Student Grade Predictor
+   - Simple linear regression model on UCI student dataset
+   - Achieved R² of 0.73; wrote a brief blog post about it
+
+3. Movie Recommendation System (In Progress)
+   - Trying to build content-based filtering using cosine similarity in pandas
+
+ACTIVITIES
+- Class Representative, 3rd and 4th year
+- Volunteer, NSS chapter (community events)
+- Member, college coding club (attended workshops)
+
+STRENGTHS
+Eager to learn, hardworking, good team player

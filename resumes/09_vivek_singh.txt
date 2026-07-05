@@ -1,0 +1,41 @@
+VIVEK SINGH
+vivek.singh.cs@gmail.com | Lucknow, UP
+GitHub: github.com/viveksingh-ml
+
+EDUCATION
+B.Tech in Computer Science
+Dr. A.P.J. Abdul Kalam Technical University — CGPA: 7.9/10
+Graduated: June 2024
+
+SKILLS
+Python, Java, C++
+Machine Learning: scikit-learn, XGBoost, LightGBM
+Deep Learning: TensorFlow (Keras), basic PyTorch
+Data: pandas, numpy, matplotlib
+NLP: spaCy, NLTK, TF-IDF, word2vec
+APIs: basic Flask, REST
+
+PROJECTS
+1. Spam Email Classifier
+   - TF-IDF + Naive Bayes + SVM ensemble; 98.1% accuracy on Enron dataset
+   - Wrote clean modular Python code; unit-tested with pytest
+
+2. Medical Image Segmentation
+   - U-Net architecture in TensorFlow for chest X-ray segmentation
+   - Dice coefficient: 0.87 on test set
+
+3. News Category Classification
+   - Fine-tuned DistilBERT on BBC News dataset; 93% accuracy
+   - Exposed via Flask API; integrated into a simple web UI
+
+4. Kaggle: NLP Disaster Tweets (Top 15%)
+   - BERT + custom preprocessing; placed 340/2200
+
+INTERNSHIP
+Machine Learning Intern — Infosys BPM (June–Aug 2023)
+- Built document classification pipeline (TF-IDF + Logistic Regression)
+- Improved existing model accuracy from 81% to 89% by resampling + tuning
+- Documented API in Swagger
+
+INTERESTS
+Research papers (read 1 arxiv paper/week), chess, open-source

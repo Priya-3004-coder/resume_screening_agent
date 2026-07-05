@@ -1,0 +1,37 @@
+ROHAN VERMA
+rohan.v@outlook.com | Pune, India
+GitHub: github.com/rohanverma-dev
+
+OBJECTIVE
+Motivated CS graduate seeking a backend / full-stack developer role to build scalable web apps.
+
+EDUCATION
+B.E. Computer Engineering
+Pune Institute of Computer Technology — CGPA: 7.4/10
+Graduated: April 2024
+
+SKILLS
+Languages: JavaScript (Node.js, React), Python (basic), Java
+Databases: MongoDB, MySQL, PostgreSQL
+Tools: Express.js, REST APIs, Git, Postman
+Deployment: Heroku, Vercel
+
+PROJECTS
+1. E-Commerce Web Application
+   - Full-stack app with React frontend, Node.js backend, MongoDB
+   - JWT authentication, Stripe payment integration, deployed on Vercel
+
+2. Task Management API
+   - RESTful API in Node.js/Express with PostgreSQL and JWT auth
+   - 95% test coverage using Jest
+
+3. Personal Finance Tracker
+   - React + Firebase app with real-time sync and charts (Chart.js)
+
+INTERNSHIP
+Software Development Intern — StartupXYZ (June–Aug 2023)
+- Built REST APIs for a logistics platform; reduced API response time by 30%
+- Integrated third-party mapping APIs (Google Maps, HERE)
+
+INTERESTS
+Open source, hackathons (3 participated), gaming

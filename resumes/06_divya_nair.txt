@@ -1,0 +1,42 @@
+DIVYA NAIR
+divya.nair@email.com | Kochi, Kerala
+LinkedIn: linkedin.com/in/divyanair-ml | GitHub: github.com/divya-nair
+
+EDUCATION
+B.Tech in Electronics & Communication Engineering
+College of Engineering Trivandrum — CGPA: 8.4/10
+Graduated: June 2024
+
+SKILLS
+Python (intermediate), MATLAB
+scikit-learn, numpy, pandas
+Signal Processing, Computer Vision (OpenCV)
+TensorFlow (Keras API)
+Git, Linux command line
+
+PROJECTS
+1. Real-Time Face Mask Detection (Final Year Project)
+   - MobileNetV2 transfer learning on custom 5k-image dataset
+   - 97.8% test accuracy; deployed as Flask web app
+   - Integrated with live webcam feed using OpenCV
+
+2. Voice Command Recognition
+   - CNN on MFCC spectrograms of Google Speech Commands dataset
+   - 92% accuracy on 10-class classification
+
+3. Stock Price Prediction with LSTM
+   - Time-series forecasting with LSTM on NSE data (pandas + Keras)
+   - Plotted predictions vs actuals in matplotlib
+
+INTERNSHIP
+ML Intern — VisionTech Solutions, Kochi (May–July 2023)
+- Trained YOLO v5 model for defect detection on PCB images
+- Reduced false positive rate from 18% to 5% through data augmentation
+- Wrote weekly technical documentation for the team
+
+CERTIFICATIONS
+- TensorFlow Developer Certificate (Google, 2024)
+- Computer Vision with OpenCV & Python (Udemy, 2023)
+
+INTERESTS
+Edge AI deployment (TFLite), competitive coding (LeetCode: 250+ problems solved)

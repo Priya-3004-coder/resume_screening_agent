@@ -1,0 +1,40 @@
+PRIYA MENON
+priya.menon@gmail.com | +91-8899001122
+GitHub: github.com/priyamenon-ai
+
+EDUCATION
+B.Sc. in Data Science
+Christ University, Bangalore — CGPA: 9.1/10
+Graduated: June 2025
+
+SKILLS
+Python, R, SQL
+scikit-learn, pandas, numpy, matplotlib, seaborn
+Basic PyTorch (completed fast.ai course)
+Git, Jupyter Notebooks
+Tableau, Power BI
+
+PROJECTS
+1. Sentiment Analysis — Product Reviews
+   - Trained logistic regression and SVM models on Amazon review dataset
+   - Compared TF-IDF vs word2vec features; TF-IDF + SVM gave 89% accuracy
+
+2. Customer Segmentation Dashboard
+   - K-Means clustering on retail dataset; built Tableau dashboard for business team
+   - Presented to 30-person audience at college data fest — won 2nd place
+
+3. Housing Price Prediction
+   - Linear regression + feature engineering on Bangalore housing data
+   - Deployed simple Flask app on Heroku
+
+INTERNSHIP
+Data Analyst Intern — FinSight Technologies (Jan–Apr 2025)
+- Cleaned and transformed 1M+ row financial datasets using pandas
+- Built monthly KPI reports in Power BI; saved 6 hours/week for the analyst team
+
+ACHIEVEMENTS
+- Winner, Intra-college Datathon 2024
+- Google Data Analytics Certificate (2024)
+
+STRENGTHS
+Strong statistical fundamentals, quick learner, excellent documentation habits
